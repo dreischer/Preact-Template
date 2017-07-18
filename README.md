@@ -51,25 +51,25 @@ my-app
 ├── .gitignore
 ├── app
 │   └── components
-│       └── Header
-│           └── Header.js
-│           └── Header.less
-│           └── index.js
+│   |   └── Header
+│   |   |    └── Header.js
+│   |   |    └── Header.less
+│   |   |    └── index.js
 │   └── styles
-│       └── index.less
+│   |   └── index.less
 │   └── views
-│       └── Feed
-│           └── Feed.js
-│           └── Feed.less
-│           └── index.js
-│       └── Home
-│           └── Home.js
-│           └── Home.less
-│           └── index.js
-│       └── NotFound
-│           └── NotFound.js
-│           └── NotFound.less
-│           └── index.js
+│   |   └── Feed
+│   |   |    └── Feed.js
+│   |   |    └── Feed.less
+│   |   |    └── index.js
+│   |   └── Home
+│   |   |    └── Home.js
+│   |   |    └── Home.less
+│   |   |    └── index.js
+│   |   └── NotFound
+│   |        └── NotFound.js
+│   |        └── NotFound.less
+│   |        └── index.js
 │   └── app.js
 │   └── index.js
 ├── config
